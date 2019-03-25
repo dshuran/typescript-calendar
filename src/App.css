@@ -1,0 +1,22 @@
+.header {
+    height: 10px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.monthSelector, .yearSelector, .leftArrow, .rightArrow {
+    float:left;
+    margin-right:5px;
+}
+
+.form {
+    margin-left: 10px;
+}
+
+.mainTable {
+    margin-top: 15px;
+}
+
+.rightArrow {
+    margin-right: 0;
+}
