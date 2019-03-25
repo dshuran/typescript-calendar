@@ -1,3 +1,5 @@
+Unfortutely, I've lost my commit history for this repo, so let it be as it exists.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
